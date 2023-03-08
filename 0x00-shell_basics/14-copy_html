@@ -1,7 +1,4 @@
 #!/bin/bash
-cd ..
-cp -u *.html ../
-cd -
-
+cp -un *.html ../
 
 
