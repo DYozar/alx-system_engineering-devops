@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Change to parent directory
+cd ..
+
+# Copy all HTML files from current directory to parent directory
+cp -u *.html .
+
+# Change back to original directory
+cd -
+
