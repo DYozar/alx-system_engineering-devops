@@ -1,4 +1,7 @@
 #!/bin/bash
-cp -u  *.html ../
+cd ..
+cp -u *.html
+cd -
+
 
 
