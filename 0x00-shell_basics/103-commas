@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1AF --group-directories-first | sed -E
+ls -1AF --group-directories-first | sed -E ':a;N;$!ba;s/\n/, /g'
