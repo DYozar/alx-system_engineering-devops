@@ -1,1 +1,2 @@
- task 0
+#!/bin/bash
+This repository is to test executable commands
